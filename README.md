@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/nakshjain/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/nakshjain/DSA-Learning/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/nakshjain/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nakshjain/DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nakshjain/DSA-Learning/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nakshjain/DSA-Learning/tree/master/0206-reverse-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nakshjain/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/nakshjain/DSA-Learning/tree/master/0021-merge-two-sorted-lists) |
+| [0025-reverse-nodes-in-k-group](https://github.com/nakshjain/DSA-Learning/tree/master/0025-reverse-nodes-in-k-group) |
 | [0143-reorder-list](https://github.com/nakshjain/DSA-Learning/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/nakshjain/DSA-Learning/tree/master/0206-reverse-linked-list) |
 ## Hash Table
