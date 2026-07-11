@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nakshjain/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nakshjain/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
 ## Two Pointers
@@ -22,10 +23,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/nakshjain/DSA-Learning/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 ## Binary Search
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 ## Greedy
 |  |
@@ -82,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
