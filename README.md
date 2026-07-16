@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/nakshjain/DSA-Learning/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/nakshjain/DSA-Learning/tree/master/0015-3sum) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/nakshjain/DSA-Learning/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nakshjain/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/nakshjain/DSA-Learning/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/nakshjain/DSA-Learning/tree/master/0141-linked-list-cycle) |
 ## Bit Manipulation
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nakshjain/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakshjain/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0226-invert-binary-tree) |
@@ -143,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0110-balanced-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/nakshjain/DSA-Learning/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/nakshjain/DSA-Learning/tree/master/0226-invert-binary-tree) |
