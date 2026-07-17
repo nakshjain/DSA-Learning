@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/nakshjain/DSA-Learning/tree/master/0287-find-the-duplicate-number) |
 | [0704-binary-search](https://github.com/nakshjain/DSA-Learning/tree/master/0704-binary-search) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 ## Two Pointers
 |  |
 | ------- |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/nakshjain/DSA-Learning/tree/master/0015-3sum) |
 | [0853-car-fleet](https://github.com/nakshjain/DSA-Learning/tree/master/0853-car-fleet) |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 ## String
 |  |
 | ------- |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/nakshjain/DSA-Learning/tree/master/0002-add-two-numbers) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/nakshjain/DSA-Learning/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -99,11 +102,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nakshjain/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/nakshjain/DSA-Learning/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/nakshjain/DSA-Learning/tree/master/0023-merge-k-sorted-lists) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 ## Merge Sort
 |  |
 | ------- |
@@ -181,4 +186,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/nakshjain/DSA-Learning/tree/master/0703-kth-largest-element-in-a-stream) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
+## Quickselect
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/nakshjain/DSA-Learning/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
